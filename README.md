@@ -73,7 +73,7 @@
 # 抽奖流程
 ![](http://cdn.nlark.com/yuque/0/2022/jpeg/25625205/1661136108224-6858f12e-26cb-494a-af11-2479b801d74c.jpeg)
 # 抽奖关系
-![](https://cdn.nlark.com/yuque/0/2022/jpeg/25625205/1661136571636-726e31f2-6881-4a4a-ab91-3204d04fd3ab.jpeg)
+![](http://cdn.nlark.com/yuque/0/2022/jpeg/25625205/1661136571636-726e31f2-6881-4a4a-ab91-3204d04fd3ab.jpeg)
 # 抽奖算法
 ## 随机
 :::info
@@ -104,7 +104,7 @@
 
 点击**[新增**]或**[修改]**按钮进入到新增或编辑页面，填写相关表单信息,其中带*号信息为必填信息，如下图所示：
 
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/25625205/1661136971141-0c090c84-b716-48d2-b42a-80dc50d69de4.png#clientId=u4d421289-3eea-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=297&id=ua2413216&name=image.png&originHeight=297&originWidth=503&originalType=binary&ratio=1&rotation=0&showTitle=false&size=11716&status=done&style=none&taskId=u3db56f3d-5f59-4685-96f1-2eaf7416847&title=&width=503)
+![image.png](http://cdn.nlark.com/yuque/0/2022/png/25625205/1661136971141-0c090c84-b716-48d2-b42a-80dc50d69de4.png#clientId=u4d421289-3eea-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=297&id=ua2413216&name=image.png&originHeight=297&originWidth=503&originalType=binary&ratio=1&rotation=0&showTitle=false&size=11716&status=done&style=none&taskId=u3db56f3d-5f59-4685-96f1-2eaf7416847&title=&width=503)
 **概率类型**： 
 
 - 随机： 系统会进行公平的随机数原则抽奖。
@@ -125,20 +125,20 @@
 点击**[新增**]或**[修改]**按钮进入到新增或编辑页面，填写相关表单信息,其中带*号信息为必填信息，如下图所示：
 ![image.png](https://cdn.nlark.com/yuque/0/2022/png/25625205/1661137195491-d5e9e9ca-b296-4740-8599-b571d7b5f39b.png#clientId=u4d421289-3eea-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=546&id=u3e9b2654&name=image.png&originHeight=546&originWidth=502&originalType=binary&ratio=1&rotation=0&showTitle=false&size=19550&status=done&style=none&taskId=u7e12eab2-a0f1-44d6-8398-c0aa08ae04d&title=&width=502)
 选择主题：如果该主题为优先级，则需要填写客户的概率。如下图所示：
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/25625205/1665218168509-bd7ff3ce-5b82-4bff-b146-d9ce4a5e776a.png#clientId=u6ade8ec5-da80-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=573&id=u1a93c501&name=image.png&originHeight=573&originWidth=536&originalType=binary&ratio=1&rotation=0&showTitle=false&size=19956&status=done&style=none&taskId=ud3d0218a-3cb2-4966-91ae-cd23dca6e57&title=&width=536)
+![image.png](http://cdn.nlark.com/yuque/0/2022/png/25625205/1665218168509-bd7ff3ce-5b82-4bff-b146-d9ce4a5e776a.png#clientId=u6ade8ec5-da80-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=573&id=u1a93c501&name=image.png&originHeight=573&originWidth=536&originalType=binary&ratio=1&rotation=0&showTitle=false&size=19956&status=done&style=none&taskId=ud3d0218a-3cb2-4966-91ae-cd23dca6e57&title=&width=536)
 ## 客户导入
 点击**[导入]**按钮进入到导入页面，如下图所示：
 > 请导入前，先下载客户导入模板，根据模板信息进行导入。如下图所示：
 
 **抽奖主题ID： 请从抽奖主题-》列表获取。**
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/25625205/1661137630062-798e85c2-5c8c-4971-8d05-010f256f44ec.png#clientId=u4d421289-3eea-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=408&id=uc1c547e4&name=image.png&originHeight=408&originWidth=411&originalType=binary&ratio=1&rotation=0&showTitle=false&size=14150&status=done&style=none&taskId=ue1d044a0-5bd3-4244-85f0-5625d34cd80&title=&width=411)
+![image.png](http://cdn.nlark.com/yuque/0/2022/png/25625205/1661137630062-798e85c2-5c8c-4971-8d05-010f256f44ec.png#clientId=u4d421289-3eea-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=408&id=uc1c547e4&name=image.png&originHeight=408&originWidth=411&originalType=binary&ratio=1&rotation=0&showTitle=false&size=14150&status=done&style=none&taskId=ue1d044a0-5bd3-4244-85f0-5625d34cd80&title=&width=411)
 ![image.png](https://cdn.nlark.com/yuque/0/2022/png/25625205/1661137651695-7108cc31-9bd7-4b5b-b7bc-fd7bf4a7fe99.png#clientId=u4d421289-3eea-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=132&id=u87205a04&name=image.png&originHeight=132&originWidth=711&originalType=binary&ratio=1&rotation=0&showTitle=false&size=3890&status=done&style=none&taskId=ua5212166-f5af-4fb9-9f37-bdd27fbdb95&title=&width=711)
 
 # 奖项管理
 ## 操作步骤
 列表界面拥有**新增，修改，删除，抽奖]**按钮，需要具有该按钮的权限则可使用。
 点击** [抽奖管理-->奖项管理]** 菜单，查看列表。如下图所示：
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/25625205/1665218201497-35e8b19c-dfa9-474d-bf80-64f14236ec3c.png#clientId=u6ade8ec5-da80-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=590&id=uc7e13063&name=image.png&originHeight=590&originWidth=1920&originalType=binary&ratio=1&rotation=0&showTitle=false&size=50118&status=done&style=none&taskId=u80b4c6ba-093d-4560-bd1a-f556b61f7a0&title=&width=1920)
+![image.png](http://cdn.nlark.com/yuque/0/2022/png/25625205/1665218201497-35e8b19c-dfa9-474d-bf80-64f14236ec3c.png#clientId=u6ade8ec5-da80-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=590&id=uc7e13063&name=image.png&originHeight=590&originWidth=1920&originalType=binary&ratio=1&rotation=0&showTitle=false&size=50118&status=done&style=none&taskId=u80b4c6ba-093d-4560-bd1a-f556b61f7a0&title=&width=1920)
 ## 1.新增/编辑
 点击**[新增**]或**[修改]**按钮进入到新增或编辑页面，填写相关表单信息,其中带*号信息为必填信息，如下图所示：
 ![image.png](https://cdn.nlark.com/yuque/0/2022/png/25625205/1665218221643-151cad36-327b-4c45-b5d0-d781ab93c6ea.png#clientId=u6ade8ec5-da80-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=379&id=u99de19c8&name=image.png&originHeight=379&originWidth=533&originalType=binary&ratio=1&rotation=0&showTitle=false&size=12888&status=done&style=none&taskId=u750c53d4-77bb-4243-833d-14fd71414a1&title=&width=533)
@@ -148,13 +148,13 @@
 :::
 ### 开始抽奖
 点击**[抽**]或**[停]**按钮进行抽奖，如下图所示：
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/25625205/1665220054255-e57697c0-ed79-443a-bd21-7abb7dd431c3.png#clientId=u6ade8ec5-da80-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=928&id=u01aeef73&name=image.png&originHeight=928&originWidth=1869&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1103867&status=done&style=none&taskId=u105597d2-29d8-4e89-b7d6-c1019c4c1e4&title=&width=1869)
+![image.png](http://cdn.nlark.com/yuque/0/2022/png/25625205/1665220054255-e57697c0-ed79-443a-bd21-7abb7dd431c3.png#clientId=u6ade8ec5-da80-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=928&id=u01aeef73&name=image.png&originHeight=928&originWidth=1869&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1103867&status=done&style=none&taskId=u105597d2-29d8-4e89-b7d6-c1019c4c1e4&title=&width=1869)
 ### 中奖名单效果
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/25625205/1665220069737-9962875f-9f61-4905-a898-7da0083e9ae0.png#clientId=u6ade8ec5-da80-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=909&id=u0a0a5a3b&name=image.png&originHeight=909&originWidth=1484&originalType=binary&ratio=1&rotation=0&showTitle=false&size=797372&status=done&style=none&taskId=u53c1984a-e082-493a-9799-96b9139c971&title=&width=1484)
+![image.png](http://cdn.nlark.com/yuque/0/2022/png/25625205/1665220069737-9962875f-9f61-4905-a898-7da0083e9ae0.png#clientId=u6ade8ec5-da80-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=909&id=u0a0a5a3b&name=image.png&originHeight=909&originWidth=1484&originalType=binary&ratio=1&rotation=0&showTitle=false&size=797372&status=done&style=none&taskId=u53c1984a-e082-493a-9799-96b9139c971&title=&width=1484)
 ## 操作步骤
 列表界面拥有**[导出]**按钮，需要具有该按钮的权限则可使用。
 点击** [抽奖管理-->中奖名单]** 菜单，查看列表。如下图所示：
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/25625205/1665220087484-625013e3-cbd9-4e03-acf3-71f3755e494c.png#clientId=u6ade8ec5-da80-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=553&id=uf39abf89&name=image.png&originHeight=553&originWidth=1915&originalType=binary&ratio=1&rotation=0&showTitle=false&size=50210&status=done&style=none&taskId=u7645ea5a-270d-4372-a8c5-a7a521b8ad6&title=&width=1915)
+![image.png](http://cdn.nlark.com/yuque/0/2022/png/25625205/1665220087484-625013e3-cbd9-4e03-acf3-71f3755e494c.png#clientId=u6ade8ec5-da80-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=553&id=uf39abf89&name=image.png&originHeight=553&originWidth=1915&originalType=binary&ratio=1&rotation=0&showTitle=false&size=50210&status=done&style=none&taskId=u7645ea5a-270d-4372-a8c5-a7a521b8ad6&title=&width=1915)
 ## 1.导出
 
 根据选择的条件进行导出列表。
@@ -165,6 +165,6 @@
 2. 启动前端服务  `npm run dev`
 
 输入：http://localhost/draw 如下图所示：
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/25625205/1665219527682-d403c0ff-dc8e-4e91-b18b-90285b9bb60c.png#clientId=u6ade8ec5-da80-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=923&id=u6c5e51d2&name=image.png&originHeight=923&originWidth=1891&originalType=binary&ratio=1&rotation=0&showTitle=false&size=335937&status=done&style=none&taskId=u7437fc1f-5ebd-4e5b-8dcd-0c937ddb116&title=&width=1891)
+![image.png](http://cdn.nlark.com/yuque/0/2022/png/25625205/1665219527682-d403c0ff-dc8e-4e91-b18b-90285b9bb60c.png#clientId=u6ade8ec5-da80-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=923&id=u6c5e51d2&name=image.png&originHeight=923&originWidth=1891&originalType=binary&ratio=1&rotation=0&showTitle=false&size=335937&status=done&style=none&taskId=u7437fc1f-5ebd-4e5b-8dcd-0c937ddb116&title=&width=1891)
 账号： admin
 密码 ：admin123

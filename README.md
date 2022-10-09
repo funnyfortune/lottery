@@ -99,7 +99,7 @@
 列表界面拥有**[奖项管理，客户管理，中奖名单，新增，修改，删除]**按钮，需要具有该按钮的权限则可使用。
 点击** [抽奖管理-->抽奖主题]** 菜单，查看列表。如下图所示：
 
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/25625205/1665218094708-bd7e73d7-1143-4260-b2cb-17d2271fe852.png#clientId=u6ade8ec5-da80-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=737&id=u5302f4f7&name=image.png&originHeight=737&originWidth=1909&originalType=binary&ratio=1&rotation=0&showTitle=false&size=67950&status=done&style=none&taskId=u3f92bff6-ca23-4738-85b0-ff06e565713&title=&width=1909)
+![image.png](http://cdn.nlark.com/yuque/0/2022/png/25625205/1665218094708-bd7e73d7-1143-4260-b2cb-17d2271fe852.png#clientId=u6ade8ec5-da80-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=737&id=u5302f4f7&name=image.png&originHeight=737&originWidth=1909&originalType=binary&ratio=1&rotation=0&showTitle=false&size=67950&status=done&style=none&taskId=u3f92bff6-ca23-4738-85b0-ff06e565713&title=&width=1909)
 
 ## 1.新增/编辑
 
@@ -142,7 +142,7 @@
 **抽奖主题ID： 请从抽奖主题-》列表获取。**
 
 ![image.png](http://cdn.nlark.com/yuque/0/2022/png/25625205/1661137630062-798e85c2-5c8c-4971-8d05-010f256f44ec.png#clientId=u4d421289-3eea-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=408&id=uc1c547e4&name=image.png&originHeight=408&originWidth=411&originalType=binary&ratio=1&rotation=0&showTitle=false&size=14150&status=done&style=none&taskId=ue1d044a0-5bd3-4244-85f0-5625d34cd80&title=&width=411)
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/25625205/1661137651695-7108cc31-9bd7-4b5b-b7bc-fd7bf4a7fe99.png#clientId=u4d421289-3eea-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=132&id=u87205a04&name=image.png&originHeight=132&originWidth=711&originalType=binary&ratio=1&rotation=0&showTitle=false&size=3890&status=done&style=none&taskId=ua5212166-f5af-4fb9-9f37-bdd27fbdb95&title=&width=711)
+![image.png](http://cdn.nlark.com/yuque/0/2022/png/25625205/1661137651695-7108cc31-9bd7-4b5b-b7bc-fd7bf4a7fe99.png#clientId=u4d421289-3eea-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=132&id=u87205a04&name=image.png&originHeight=132&originWidth=711&originalType=binary&ratio=1&rotation=0&showTitle=false&size=3890&status=done&style=none&taskId=ua5212166-f5af-4fb9-9f37-bdd27fbdb95&title=&width=711)
 
 # 奖项管理
 ## 操作步骤

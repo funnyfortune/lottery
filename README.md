@@ -71,7 +71,7 @@
 ```
 
 # 抽奖流程
-![](https://cdn.nlark.com/yuque/0/2022/jpeg/25625205/1661136108224-6858f12e-26cb-494a-af11-2479b801d74c.jpeg)
+![](http://cdn.nlark.com/yuque/0/2022/jpeg/25625205/1661136108224-6858f12e-26cb-494a-af11-2479b801d74c.jpeg)
 # 抽奖关系
 ![](https://cdn.nlark.com/yuque/0/2022/jpeg/25625205/1661136571636-726e31f2-6881-4a4a-ab91-3204d04fd3ab.jpeg)
 # 抽奖算法
